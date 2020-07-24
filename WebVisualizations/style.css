@@ -1,0 +1,45 @@
+body {
+    background-color: lightgray
+}
+
+.container { 
+  padding: 50px;
+  background-color: white;
+}
+
+
+.navbar.navbar-expand-lg.navbar-light a{
+    color: black;
+}
+
+.container h3{
+    color: rgb(0, 165, 151);
+    float: left;
+}
+
+.container h5{
+    color: rgb(0, 165, 151);
+    float: left;
+}
+
+img {
+    max-width: 100%;
+
+}
+
+.container h6{
+    color: rgb(0, 165, 151);
+    text-align: center;
+}
+
+.selected img{
+    border: 2px solid rgb(0, 165, 151);
+}
+
+div {
+    column-gap: -10px;
+  }
+
+th {
+    text-align: left;
+}
