@@ -43,3 +43,11 @@ div {
 th {
     text-align: left;
 }
+
+.nav-item{
+    text-align: right;
+}
+
+.dropdown-item{
+    text-align: right;
+}
